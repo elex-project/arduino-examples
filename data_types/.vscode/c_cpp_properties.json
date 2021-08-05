@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/elex/.arduino15/packages/arduino/tools/**",
+                "/home/elex/.arduino15/packages/arduino/hardware/avr/1.6.19/**",
+                "/home/elex/.arduino15/packages/arduino/hardware/avr/1.6.19/cores/arduino"
+            ],
+            "forcedInclude": [
+                "/home/elex/.arduino15/packages/arduino/hardware/avr/1.6.19/cores/arduino/Arduino.h"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
