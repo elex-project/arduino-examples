@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+                "/snap/arduino/current/tools/**",
+                "/snap/arduino/current/hardware/arduino/avr/**",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/cpp",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "forcedInclude": [
+                "/snap/arduino/current/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}
